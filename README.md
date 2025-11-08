@@ -22,7 +22,7 @@ The Student Management System allows an institute to:
 ---
 
 ## 💾 SQL File
-All SQL scripts are included in [`student_management_system.sql`](student_management_system.sql).  
+All SQL scripts are included in [`student_management_system.sql`](_student_management_system.sql).  
 It contains:
 - Database and table creation  
 - Sample data insertion  
